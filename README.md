@@ -3,7 +3,7 @@ Guia para Iniciantes na Linguagem Python
 
 ## Sumário
 
-01. [Introdução](https://github.com/the-akira/Python-Iluminado/blob/master/01.Introdu%C3%A7%C3%A3o.md)
+01. [Introdução](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/01.Introdu%C3%A7%C3%A3o.md)
 02. [Ambiente de Programação](https://github.com/the-akira/Python-Iluminado/blob/master/02.Ambiente%20de%20Programa%C3%A7%C3%A3o.md)
 03. [Sintaxe](https://github.com/the-akira/Python-Iluminado/blob/master/03.Sintaxe.md)
 04. [Tipos de Variáveis](https://github.com/the-akira/Python-Iluminado/blob/master/04.Tipos%20de%20Vari%C3%A1veis.md)
