@@ -35,4 +35,4 @@ Guia para Iniciantes na Linguagem Python
 29. [PIP](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/29.PIP.md)
 31. [MongoDB](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/31.PythonMongoDB.md)
 32. [Grandes Bibliotecas](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/32.Grandes%20Bibliotecas.md)
-33. [Referências Online](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/33.Refer%C3%AAncias%20Online.md)
+33. [Referencias Online](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/33.Refer%C3%AAncias%20Online.md)
