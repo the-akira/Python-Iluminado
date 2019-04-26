@@ -2,9 +2,9 @@
 
 ![capa](https://i.imgur.com/je28Hbb.jpg "")
 
-Guia para Iniciantes na Linguagem Python
+Guia para Iniciantes com a Linguagem Python
 
-## Sumário
+## Conteúdo
 
 01. [Introdução](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/01.Introdu%C3%A7%C3%A3o.md)
 02. [Ambiente de Programação](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/02.Ambiente%20de%20Programa%C3%A7%C3%A3o.md)
