@@ -1,6 +1,6 @@
 # Python-Iluminado
 
-![alt text](https://i.imgur.com/je28Hbb.jpg "")
+![capa](https://i.imgur.com/je28Hbb.jpg "")
 
 Guia para Iniciantes na Linguagem Python
 
