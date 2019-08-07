@@ -34,7 +34,7 @@ Guia para Iniciantes com a Linguagem Python
 26. [Iteradores ](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/26.Iteradores.md)
 27. [Geradores](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/27.Geradores.md)
 28. [Decoradores](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/28.Decoradores.md)
-29. [PIP](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/29.PIP.md)
+29. [Gerenciadores de Pacotes e Ambientes Virtuais](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/29.PIP.md)
 29. [MySQL](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/30.PythonMySQL.md)
 31. [MongoDB](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/31.PythonMongoDB.md)
 32. [Grandes Bibliotecas e Ferramentas](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/32.Grandes%20Bibliotecas%20e%20Ferramentas.md)
