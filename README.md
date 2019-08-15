@@ -27,7 +27,7 @@ Guia para Iniciantes com a Linguagem Python
 17. [Lambda](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/17.Lambda.md)
 18. [Módulos](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/18.M%C3%B3dulos.md)
 19. [Input/Output Arquivos](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/19.InputOutputArquivos.md)
-20. [Erros e Exceções](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/20.ErrosExce%C3%A7%C3%B5es.md)
+20. [Erros, Exceções e Testes](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/20.ErrosExce%C3%A7%C3%B5es.md)
 21. [Data e Tempo](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/21.DataTempo.md)
 22. [Classes e Objetos](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/22.ClassesObjetos.md)
 23. [Expressões Regulares](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/23.Express%C3%B5esRegulares.md)
