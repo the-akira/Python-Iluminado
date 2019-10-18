@@ -1,6 +1,7 @@
+<h1 align="center">Python Iluminado</h1>
+
 <h1 align="center">
-	Python Iluminado
-    <img alt="Python" title="Python-Iluminado" src="https://i.imgur.com/je28Hbb.jpg" width="140"> </br>
+    <img alt="Python" title="Python-Iluminado" src="https://i.imgur.com/je28Hbb.jpg"> </br>
 </h1>
 
 <p align="center">
