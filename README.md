@@ -1,8 +1,11 @@
-# Python-Iluminado
+<h1 align="center">
+	Python Iluminado
+    <img alt="Python" title="Python-Iluminado" src="https://i.imgur.com/je28Hbb.jpg" width="140"> </br>
+</h1>
 
-![capa](https://i.imgur.com/je28Hbb.jpg "")
-
-Guia para Iniciantes com a Linguagem Python
+<p align="center">
+	Guia para Iniciantes com a Linguagem Python
+</p>
 
 ---------------------------------------
 
