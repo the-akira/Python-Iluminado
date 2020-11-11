@@ -8,8 +8,6 @@
 	Guia para Iniciantes com a Linguagem Python
 </p>
 
----------------------------------------
-
 ## Conteúdo
 
 01. [Introdução](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/01.Introdu%C3%A7%C3%A3o.md)
