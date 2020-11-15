@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<catalog>
+   <book id="bk101">
+      <author>Orwell, George</author>
+      <title>Nineteen Eighty-Four: A Novel</title>
+      <genre>Dystopian</genre>
+      <publish_date>1949-06-08</publish_date>
+      <description>Thematically, Nineteen Eighty-Four centres on the consequences of totalitarianism, mass surveillance, and repressive regimentation of persons and behaviours within society.</description>
+   </book>
+   <book id="bk102">
+      <author>Huxley, Aldous</author>
+      <title>Brave New World</title>
+      <genre>Dystopian</genre>
+      <publish_date>1932-12-16</publish_date>
+      <description>Largely set in a futuristic World State, whose citizens are environmentally engineered into an intelligence-based social hierarchy, the novel anticipates huge scientific advancements in reproductive technology, sleep-learning, psychological manipulation and classical conditioning that are combined to make a dystopian society which is challenged by only a single individual: the story's protagonist.</description>
+   </book>
+   <book id="bk103">
+      <author>Huxley, Aldous</author>
+      <title>The Doors of Perception</title>
+      <genre>Psychology</genre>
+      <publish_date>1954-11-17</publish_date>
+      <description>The Doors of Perception provoked strong reactions for its evaluation of psychedelic drugs as facilitators of mystical insight with great potential benefits for science, art, and religion.</description>
+   </book>
+   <book id="bk104">
+      <author>Gibson, William</author>
+      <title>Neuromancer</title>
+      <genre>Cyberpunk</genre>
+      <publish_date>1984-07-01</publish_date>
+      <description>Set in the future, the novel follows Henry Case, a washed-up computer hacker who is hired for one last job, which brings him up against a powerful artificial intelligence.</description>
+   </book>
+   <book id="bk105">
+      <author>Erickson, Jon</author>
+      <title>Hacking: The Art of Exploitation</title>
+      <genre>Computer Security</genre>
+      <publish_date>2003-09-10</publish_date>
+      <description>Hacking: The Art of Exploitation is a book by Jon "Smibbs" Erickson about computer security and network security.</description>
+   </book>
+   <book id="bk106">
+      <author>Chollet, François</author>
+      <title>Deep Learning with Python</title>
+      <genre>Machine Learning</genre>
+      <publish_date>2017-11-02</publish_date>
+      <description>Deep Learning with Python introduces the field of deep learning using the Python language and the powerful Keras library. Written by Keras creator and Google AI researcher François Chollet, this book builds your understanding through intuitive explanations and practical examples.</description>
+   </book>
+   <book id="bk107">
+      <author>Kant, Immanuel</author>
+      <title>Critique of Pure Reason</title>
+      <genre>Philosophy</genre>
+      <publish_date>1787-11-02</publish_date>
+      <description>The Critique of Pure Reason is a book by the German philosopher Immanuel Kant, in which the author seeks to determine the limits and scope of metaphysics.</description>
+   </book>
+   <book id="bk108">
+      <author>Schopenhauer, Arthur</author>
+      <title>The World as Will and Representation</title>
+      <genre>Philosophy</genre>
+      <publish_date>1818-12-06</publish_date>
+      <description>Taking the transcendental idealism of Immanuel Kant as his starting point, Schopenhauer argues that the world we experience around us—the world of objects in space and time and related in causal ways—exists solely as 'representation' (Vorstellung) dependent on a cognizing subject, not as a world that can be considered to exist in itself (independently of how it appears to the subject’s mind).</description>
+   </book>
+</catalog>
