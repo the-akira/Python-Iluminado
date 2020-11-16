@@ -1,0 +1,26 @@
+{
+    "nome": "Talantyr",
+    "epiteto": "O Glorioso",
+    "nível": 45,
+    "vivo": true,
+    "atributos": {
+        "força": 45,
+        "destreza": 60,
+        "inteligência": 70
+    },
+    "mascotes": [
+        "Lobo",
+        "Coruja"
+    ],
+    "magias": null,
+    "itens": [
+        {
+            "nome": "poção de mana",
+            "quantidade": 5
+        },
+        {
+            "nome": "poção de vida",
+            "quantidade": 7
+        }
+    ]
+}
