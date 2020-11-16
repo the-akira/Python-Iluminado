@@ -42,4 +42,4 @@
 29. [MySQL](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/30.PythonMySQL.md)
 31. [MongoDB](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/31.PythonMongoDB.md)
 32. [Grandes Bibliotecas e Ferramentas](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/32.Grandes%20Bibliotecas%20e%20Ferramentas.md)
-33. [Referencias Online](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/33.Refer%C3%AAncias%20Online.md)
+33. [Referências Online](https://github.com/the-akira/Python-Iluminado/blob/master/Capitulos/33.Refer%C3%AAncias%20Online.md)
