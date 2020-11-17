@@ -1,0 +1,3 @@
+Estamos escrevendo no arquivo
+Outra linha escrita no arquivo
+Anexando ao arquivo
