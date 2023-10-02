@@ -5,7 +5,7 @@
 </h1>
 
 <p align="justify">
-	Python Iluminado é um Guia construído especialmente para Iniciantes com a Linguagem Python. O objetivo dele é fornecer uma base sólida do Python e também abordar conceitos essenciais de Algoritmos, Estruturas de Dados & Programação, bem como apresentar uma vasta lista de materiais de estudos para você aperfeiçoar seu conhecimento.
+	Python Iluminado é um Guia construído especialmente para Iniciantes com a Linguagem Python. O objetivo é explorar conceitos fundamentais da Computação e compreender o funcionamento da linguagem e suas capacidades e potencial, bem como apresentar uma vasta lista de materiais de estudos qualificados para você ampliar e aperfeiçoar o seu conhecimento.
 </p>
 
 ## Conteúdo
