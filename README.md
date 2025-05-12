@@ -1,7 +1,7 @@
 <h1 align="center">Python Iluminado</h1>
 
 <h1 align="center">
-    <img alt="Python" title="Python-Iluminado" src="https://raw.githubusercontent.com/the-akira/Python-Iluminado/master/Imagens/Avatar.png"> </br>
+    <img alt="Python" title="Python-Iluminado" src="/Imagens/Avatar.png"> </br>
 </h1>
 
 <p align="justify">
